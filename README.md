@@ -1,1 +1,5 @@
-# PBL-final-project-group-4
+Here i am goinf to breakdown all the files in the repo to make it more well organized. They are 4 pdf files and 1 pptx file and the model code in google collab.
+1)first the Final_Project_Report_PBL.pdf this is the first file to start with cause it has the overview of our prject and our approach that we used in solving our problem and we have refrenced the exploitaions that we have done in this report that if you wanted more details you should open the Penetration Testing and Exploitation Results.pdf.
+2) Penetration Testing and Exploitation Results file contains all the exploitaitons of the vulenrability that we have done on the juice shop website in details and the way and tools we have used 
+3)The implementation phase is documented in the conference paper and supported with the accompanying Jupyter Notebook, which demonstrates our model’s workflow and performance.
+4)For further depth regarding the architecture, methodologies, and related literature, the survey paper includes all relevant theoretical background.
