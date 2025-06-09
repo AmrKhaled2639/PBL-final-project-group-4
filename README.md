@@ -1,5 +1,20 @@
-Here i am goinf to breakdown all the files in the repo to make it more well organized. They are 4 pdf files and 1 pptx file and the model code in google collab.
-1)first the Final_Project_Report_PBL.pdf this is the first file to start with cause it has the overview of our prject and our approach that we used in solving our problem and we have refrenced the exploitaions that we have done in this report that if you wanted more details you should open the Penetration Testing and Exploitation Results.pdf.
-2) Penetration Testing and Exploitation Results file contains all the exploitaitons of the vulenrability that we have done on the juice shop website in details and the way and tools we have used 
-3)The implementation phase is documented in the conference paper and supported with the accompanying Jupyter Notebook, which demonstrates our model’s workflow and performance.
-4)For further depth regarding the architecture, methodologies, and related literature, the survey paper includes all relevant theoretical background.
+# Project Documentation Overview
+
+This repository contains the following files to help you understand our project:
+
+1. **Final_Project_Report_PBL.pdf**  
+   This is the main project report that provides an overview of our approach for solving the problem. It includes references of the exploitations we conducted, with more detailed information available in the "Penetration Testing and Exploitation Results.pdf" file.
+
+2. **Penetration Testing and Exploitation Results.pdf**  
+   This document contains detailed explanations of all vulnerability exploitations we have performed on the Juice Shop website, including the methods and tools we used.
+
+3. **Conference Paper (PDF)**  
+   The implementation phase is documented in this conference paper, which is supported by an accompanying Jupyter Notebook demonstrating our model’s workflow and performance.
+
+4. **Survey Paper (PDF)**  
+   For a deeper understanding of the architecture, methodologies, and related literature, this survey paper includes all relevant theoretical background.
+
+5. **Model Code (Google Colab Notebook)**  
+   The practical implementation of our model is available in this interactive notebook.
+
+For any questions or further clarification, please refer to the respective documents or reach out to the team.
